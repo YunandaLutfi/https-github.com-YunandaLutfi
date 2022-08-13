@@ -1,0 +1,47 @@
+body {
+  background-color: #3b3b46;
+}
+.navbar-nav :hover {
+  box-shadow: 2px 2px #ffff;
+  transition: 0.5s;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  color: white;
+}
+
+#aboutMe {
+  background-color: #273036;
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+}
+
+.card-text {
+  color: black;
+}
+
+#contact {
+  background-color: #273036;
+}
+
+.form-label {
+  color: white;
+}
+
+#footer {
+  background-color: #273036;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
